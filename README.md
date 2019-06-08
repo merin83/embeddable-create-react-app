@@ -1,8 +1,8 @@
 # embeddable-create-react-app [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
 
-[npm-image]: https://img.shields.io/npm/v/get-package-readme.svg
+[npm-image]: https://img.shields.io/npm/v/embeddable-create-react-app.svg
 [npm-url]: https://www.npmjs.com/package/embeddable-create-react-app
-[downloads-image]: https://img.shields.io/npm/dm/get-package-readme.svg
+[downloads-image]: https://img.shields.io/npm/dm/embeddable-create-react-app.svg
 [downloads-url]: https://www.npmjs.com/package/embeddable-create-react-app
 
 ### Using webpack config
