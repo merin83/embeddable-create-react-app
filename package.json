@@ -22,5 +22,13 @@
   "dependencies": {
     "inquirer": "^6.3.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merin83/embeddable-create-react-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/merin83/embeddable-create-react-app/issues"
+  },
+  "homepage": "https://github.com/merin83/embeddable-create-react-app#readme"
 }
