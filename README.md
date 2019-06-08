@@ -1,4 +1,9 @@
-## Embed create-react-app without doing the eject
+# embeddable-create-react-app [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
+
+[npm-image]: https://img.shields.io/npm/v/get-package-readme.svg
+[npm-url]: https://www.npmjs.com/package/embeddable-create-react-app
+[downloads-image]: https://img.shields.io/npm/dm/get-package-readme.svg
+[downloads-url]: https://www.npmjs.com/package/embeddable-create-react-app
 
 ### Using webpack config
 - npm to bring the webpack.config
