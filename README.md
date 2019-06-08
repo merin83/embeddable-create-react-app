@@ -5,6 +5,12 @@
 [downloads-image]: https://img.shields.io/npm/dm/embeddable-create-react-app.svg
 [downloads-url]: https://www.npmjs.com/package/embeddable-create-react-app
 
+## Description
+Quickly generate a webpack.config.js file to generate embeddable react widget or CDN friendly build.min.js without ejecting create-react-app
+
+## Installation
+
+
 ### Using webpack config
 - npm to bring the webpack.config
 - follow rest of the instruction
