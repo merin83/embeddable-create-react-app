@@ -1,7 +1,7 @@
 {
   "name": "embeddable-create-react-app",
   "version": "1.0.0",
-  "description": "Quickly generate a webpack.config.js file to generate embeddable react widget or CDN friendly build.min.js without ejecting create-react-app",
+  "description": "Embed create-react-app without doing any eject",
   "main": "src/index.js",
   "bin": "src/index.js",
   "scripts": {
